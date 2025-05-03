@@ -140,13 +140,13 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas. <br> Sou apaixonado po
 ### 📊 Estatísticas
 
 <p>
-    <img 
-        align="left"
-        alt="GitHub Stats"
-        height="200"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=IsraelPhilippe&show_icons=true&theme=tokyonight&include_all__commits=true&locale=pt-br"
-    />
+<img 
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=IsraelPhilippe&show_icons=true&theme=tokyonight&include_all__commits=true&locale=pt-br"
+/>
 <img 
         align="left"
         alt="GitHub Stats"
