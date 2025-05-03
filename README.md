@@ -8,7 +8,6 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas. <br> Sou apaixonado po
 
 ### 🤖 Linguagens e Tecnologias
 
-
 <img 
     align="left"
     alt="HTML"
@@ -27,7 +26,6 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas. <br> Sou apaixonado po
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
           
-
 <img 
     align="left"
     alt="JavaScript"
@@ -125,42 +123,6 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas. <br> Sou apaixonado po
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left"
-    alt="Postman"
-    title="Postman"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-/>
-
-<img 
-    align="left"
-    alt="VScode"
-    title="VScode"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-
-<img 
-    align="left"
-    alt="PHPstorm"
-    title="PHPstorm"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" 
-/>
-
-<img 
-    align="left"
-    alt="Dbeaver"
-    title="Dbeaver"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
 />
 
 <img 
