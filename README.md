@@ -1,8 +1,8 @@
 # 👨‍💻 Israel Philippe
 **`Desenvolvedor BackEnd`**
 
-Me chamo Israel Philippe, tenho 26 anos e sou natural de Belo Horizonte.
-Atualmente, curso Análise e Desenvolvimento de Sistemas. <br> Sou apaixonado por tecnologia e estou sempre em busca de expandir meus conhecimentos, explorando novas ferramentas, tendências e inovações do universo tech.
+Me chamo Israel Philippe, tenho 27 anos e sou natural de Belo Horizonte.
+Atualmente, curso Tecnologia em Ciências de Dados. <br> Sou apaixonado por tecnologia e estou sempre em busca de expandir meus conhecimentos, explorando novas ferramentas, tendências e inovações do universo tech.
 
 ---
 
